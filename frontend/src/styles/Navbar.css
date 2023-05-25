@@ -1,0 +1,11 @@
+.navbar .navbar-nav .nav-item a {
+    padding: 15px;
+}
+
+.navbar .navbar-nav .nav-but {
+    padding: 7px;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
